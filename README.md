@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HimanshuKakwani/CP-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/HimanshuKakwani/CP-DSA/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshuKakwani/CP-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HimanshuKakwani/CP-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/HimanshuKakwani/CP-DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/HimanshuKakwani/CP-DSA/tree/master/0053-maximum-subarray) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HimanshuKakwani/CP-DSA/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshuKakwani/CP-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuKakwani/CP-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
