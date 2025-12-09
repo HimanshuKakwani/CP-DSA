@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/HimanshuKakwani/CP-DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/HimanshuKakwani/CP-DSA/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuKakwani/CP-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0605-can-place-flowers](https://github.com/HimanshuKakwani/CP-DSA/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/HimanshuKakwani/CP-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HimanshuKakwani/CP-DSA/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/HimanshuKakwani/CP-DSA/tree/master/0605-can-place-flowers) |
 ## Divide and Conquer
 |  |
 | ------- |
